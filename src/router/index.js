@@ -6,7 +6,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: "/calculator",
+    path: "/",
     name: "calculator",
     component: CalculatorView,
   },
